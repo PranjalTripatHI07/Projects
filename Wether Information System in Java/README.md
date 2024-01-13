@@ -10,11 +10,6 @@ The 7-day forecast data is pulled from NOAA at weather.gov and displayed with it
 
 I used Google Maps API to display a map of the area and used either ClimaCell or openWeatherMap weather layers to overlay the map and show precipitation, cloud cover, and temperature. The radio buttons will update the map with the new layer when clicked.
 
-
-
-**This was built in Eclipse running on Apache Tomcat so you will need a web server running. I also needed to install json-simple-1.1.jar to handle the JSON files in Java:
-http://www.java2s.com/Code/Jar/j/Downloadjsonsimple11jar.htm
-
 **TO DO List:
 This web application works at the moment but is still pretty raw. When I was first thinking of this project, I figured it had to be innovative to be worth hosting for users. Right now, it doesn't do anything too exciting... but it could. 
 2 things I thought of:
